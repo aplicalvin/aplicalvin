@@ -1,32 +1,40 @@
-## Hello, World 👋 
-Welcome to my GitHub profile! <br />
-This is ApliCalvin Github Profile!
+# Hello World 👋  
+Welcome to my GitHub Profile!  
+You’ll find a mix of **software engineering, fullstack development, and tech education.** Let’s build something awesome together! 🚀  
+<br/>
 
-- 🔭 I’m currently study on Dian Nuswantoro University 
-- 🌱 I’m currently learning Software Engineering
+### 👨‍💻 About Me  
 
-<!--- 👯 I’m looking to collaborate on ...-->
-<!--- 🤔 I’m looking for help with ...-->
-<!--- 💬 Ask me about ...-->
-<!--- 📫 How to reach me: ...-->
-<!--- 😄 Pronouns: ...-->
-<!--- ⚡ Fun fact: ...-->
-<!----->
+I am an **Informatics Engineering student** at **Dian Nuswantoro University**, deeply passionate about **programming, design, and education**. I love exploring the latest technologies and staying ahead of industry trends.  
 
-### My Skills and Experience
+🎤 **Educator & Mentor** — I enjoy sharing knowledge through **public speaking, mentoring, and tutoring**. Helping others understand programming and design is something I’m truly passionate about.  
 
-[![My Skills](https://skillicons.dev/icons?i=figma,tailwindcss,bootstrap,html,cpp,js,php,laravel,npm,laravel,mysql)](https://skillicons.dev) 
- 
+🛠️ **Fullstack Developer** — Proficient in **frontend & backend development**, I build scalable, high-performance applications using modern technologies.  
 
-<!--![Header](./[Your header image])-->
+🚀 **Tech Enthusiast & Open Source Advocate** — I believe education is key to innovation and actively contribute to tech communities.  
 
-<!--
-![ApliCalvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=aplicalvin&show_icons=true&theme=transparent)
--->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aplicalvin&hide_progress=true)
+🤝 **Open to Collaboration** — If you’re working on impactful projects and need a passionate developer & educator, let’s connect!  
 
-<!--
-**aplicalvin/aplicalvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
--->
+
+### 📫 Get in Touch  
+- 🔗 LinkedIn: [ApliCalvin LinkedIn Profile](https://linkedin.com/in/aplicalvin)  
+- 🌍 Website/Portfolio: [My Website](https://aplicalvin.my.id)  
+- ✉️ Email: [Email Me](mailto:calvins.simbolon@gmail.com)  
+
+
+
+### 🛠️ Tech Stack & Tools  
+
+[![My Skills](https://skillicons.dev/icons?i=figma,tailwindcss,bootstrap,html,css,js,php,laravel,npm,flutter,dart,mysql,cpp)](https://skillicons.dev)  
+
+
+
+### 📊 GitHub Stats  
+
+![ApliCalvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aplicalvin&show_icons=true&theme=transparent)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aplicalvin&layout=compact&theme=transparent)  
+
+
+
+> ⭐ **"Empowering Tech Through Education & Innovation!"**  
