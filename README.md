@@ -8,7 +8,7 @@ I am an **Informatics Engineering student** at **Dian Nuswantoro University**, d
 
 🎤 **Educator & Mentor** — I enjoy sharing knowledge through **public speaking, mentoring, and tutoring**. Helping others understand programming and design is something I’m truly passionate about.  
 
-🛠️ **Fullstack Developer** — Proficient in **frontend & backend development**, I build scalable, high-performance applications using modern technologies.  
+🛠️ **Fullstack Developer** — Proficient in **web development**, I build scalable, high-performance applications using modern technologies.  
 
 🚀 **Tech Enthusiast & Open Source Advocate** — I believe education is key to innovation and actively contribute to tech communities.  
 
