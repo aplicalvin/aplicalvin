@@ -1,6 +1,14 @@
-![Gambar Header Github](image-header.png)
-# Hello World 👋  
+![👋 Hi, my name is ApliCalvin!](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi, my name is ApliCalvin!
+      </h1>
+    </summary>
+  </ul>
+</div>
 Welcome to my GitHub Profile!  
 You’ll find a mix of **software engineering, fullstack development, and tech education.** Let’s build something awesome together! 🚀  
 
