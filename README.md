@@ -10,7 +10,7 @@
   </ul>
 </div>
 Welcome to my GitHub Profile!  
-You’ll find a mix of **software engineering, fullstack development, and tech education.** Let’s build something awesome together! 🚀  
+You’ll find a mix of  **software engineering, fullstack development, and tech education.**  Let’s build something awesome together! 🚀  
 
 ### 👨‍💻 About Me  
 
